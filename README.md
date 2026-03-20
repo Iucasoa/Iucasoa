@@ -24,13 +24,27 @@ Atualmente focado em sistemas embarcados, algoritmos de alta performance e desen
 
 ---
 
-### 2. 📊 Estatísticas e Linguagens Mais Usadas
+### 🛠️ Proficiência em Linguagens
 
-Aqui o GitHub gera automaticamente um gráfico baseado nos seus repositórios reais:
+Aqui está o meu nível de domínio nas tecnologias que utilizo nos meus projetos de Engenharia de Computação:
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoa&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasoa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+**Linguagens de Programação**
+* **Python** (Intermediário)
+![Progress](https://geps.dev/progress/65?dangerColor=2ecc71&warningColor=2ecc71&successColor=2ecc71)
+
+* **C / C++** (Intermediário)
+![Progress](https://geps.dev/progress/60?dangerColor=00599C&warningColor=00599C&successColor=00599C)
+
+* **JavaScript** (Intermediário)
+![Progress](https://geps.dev/progress/55?dangerColor=F7DF1E&warningColor=F7DF1E&successColor=F7DF1E)
+
+* **Verilog** (Iniciante/Estudante)
+![Progress](https://geps.dev/progress/35?dangerColor=2D3436&warningColor=2D3436&successColor=2D3436)
+
+* **Java** (Iniciante)
+![Progress](https://geps.dev/progress/30?dangerColor=ED8B00&warningColor=ED8B00&successColor=ED8B00)
+
+---
 </p>
 
 ---
