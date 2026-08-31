@@ -18,11 +18,11 @@ Minha trajetória conecta o mundo do **hardware** ao **software**: transito livr
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Contato
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Iucasoa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iucasoa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <a href="https://www.linkedin.com/in/joão-lucas-022786311">LinkedIn — João Lucas</a><br/>
+  <a href="mailto:lucasoa.br@gmail.com">lucasoa.br@gmail.com</a>
 </div>
 
 ---
@@ -112,13 +112,6 @@ Minha trajetória conecta o mundo do **hardware** ao **software**: transito livr
 
 * Português — Nativo
 * Inglês — Intermediário/Avançado (leitura e documentação técnica)
-
----
-
-## 📫 Contato
-
-* 📧 [seu-email@email.com](mailto:seu-email@email.com)
-* 💼 [LinkedIn](https://linkedin.com/in/SEU-LINKEDIN)
 
 ---
 
