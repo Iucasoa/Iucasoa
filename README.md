@@ -4,15 +4,15 @@
 
 ---
 
-  ![About_Me](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=38BDF8&size=22&center=false&vCenter=true&width=500&lines=Engenharia+de+Computação;Sistemas+Embarcados+%7C+Hardware;Python+%7C+C+%7C+Verilog+%7C+IA)
+  ![About_Me](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=38BDF8&size=22&center=false&vCenter=true&width=500&lines=Engenharia+de+Computação;Sistemas+Embarcados+%7C+Hardware;Python+%5B...%5D)
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou graduado em **Ciência e Tecnologia** e atualmente curso **Engenharia de Computação** na **UFERSA** (Campus Pau dos Ferros). Atuo como monitor acadêmico de Geometria Analítica e participo de pesquisas voltadas à geração de energia termelétrica e captura de energia.
+Sou graduado em **Ciência e Tecnologia** e atualmente curso **Engenharia de Computação** na **UFERSA** (Campus Pau dos Ferros). Atuo como monitor acadêmico de Geometria Analítica e participo [...]
 
-Minha trajetória conecta o mundo do **hardware** ao **software**: transito livremente entre sistemas embarcados de baixo nível, descrição de hardware, modelagem de dados e inteligência artificial aplicada.
+Minha trajetória conecta o mundo do **hardware** ao **software**: transito livremente entre sistemas embarcados de baixo nível, descrição de hardware, modelagem de dados e inteligência artifi[...]
 
 ⚡ Sempre construindo, simulando e aprendendo novas tecnologias.
 
@@ -21,8 +21,8 @@ Minha trajetória conecta o mundo do **hardware** ao **software**: transito livr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=lucasoa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Iucasoa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iucasoa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
 
 ---
