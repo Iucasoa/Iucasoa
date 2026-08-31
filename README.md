@@ -3,7 +3,7 @@
 # Olá — eu sou o João Lucas 👋
 
 <p>
-Engenheiro de Computação (em formação) na UFERSA — trabalho na fronteira entre hardware, firmware e sistemas embarcados. Transformo ideias em silício: escrevo firmware em C para microcontroladores AVR/ARM, projeto hardware digital em Verilog para FPGA e construo aplicações full‑stack para integração e telemetria.
+Engenheiro de Computação (em formação) na UFERSA — trabalho na fronteira entre hardware, firmware e sistemas embarcados. Transformo ideias em silício: escrevo firmware em C para microcontroladores, design digital em FPGAs e integro sistemas completos.
 </p>
 
 <p>
@@ -23,7 +23,7 @@ Engenheiro de Computação (em formação) na UFERSA — trabalho na fronteira e
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Engenheiro+de+Computa%C3%A7%C3%A3o+em+Forma%C3%A7%C3%A3o+%40+UFERSA" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Engenheiro+de+Computação+em+Formação+%40+UFERSA;Firmware+%7C+Hardware+%7C+Sistemas+Embarcados;Do+bit+ao+sistema!" alt="Typing SVG" />
 </p>
 
 ---
@@ -75,12 +75,12 @@ Hardware: AVR (ATmega), ARM Cortex‑M, FPGA, Arduino
 ## Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iucasoa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iucasoa&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Iucasoa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iucasoa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iucasoa&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iucasoa&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="60%" />
 </p>
 
 ---
