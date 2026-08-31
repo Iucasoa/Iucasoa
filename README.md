@@ -1,8 +1,10 @@
 <div align="center">
 
-# Olá, eu sou o João Lucas! 👋
+# Olá — eu sou o João Lucas 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7¢er=true&vCenter=true&width=650&lines=En genheiro+de+Computa%C3%A7%C3%A3o+em+Forma%C3%A7%C3%A3o+%40+UFERSA;Conectando+Hardware+%26+Software;Sistemas+Embarcados+%7C+FPGA+%7C+IA" alt="Digitando SVG" />
+<p>
+Engenheiro de Computação (em formação) na UFERSA — trabalho na fronteira entre hardware, firmware e sistemas embarcados. Gosto de transformar ideias em silício: escrever firmware em C para microcontroladores AVR/ARM, projetar hardware digital em Verilog para FPGA e construir aplicações full‑stack quando necessário.
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/joão-lucas-022786311">
@@ -20,71 +22,51 @@
 
 ---
 
-### 💡 Sobre mim
+## Sobre mim
 
-Estudante do 8º período de **Engenharia de Computação** na **UFERSA**, com uma trajetória construída na interseção entre **hardware, software e energia**. Atuei em projetos de pesquisa científica (CNPq) sobre geração de energia renovável via efeito termoelétrico — do protótipo experimental à publicação dos resultados.
+- Estudante do 8º período de Engenharia de Computação na UFERSA.
+- Experiência em firmware bare‑metal (AVR/ARM), design digital (Verilog/VHDL) e desenvolvimento de aplicações para pesquisa e protótipos.
+- Interesse em sistemas embarcados, microarquitetura e aplicações de ML embarcado.
 
-Hoje minha paixão é tirar sistemas do papel e colocá-los no silício: escrever firmware em **C** para microcontroladores **AVR/ARM**, projeto hardware digital em **Verilog** para **FPGA**, e usar **Python** para dar vida a modelos de IA e processamento de sinais. Gosto de projetos que desativem pensar em tempo real, registradores e performance — não só em abstrações. 🚀
-
----
-
-### 🛠️ Stack Tecnológica
-
-**Linguagens**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-black?style=for-the-badge)
-![VHDL](https://img.shields.io/badge/VHDL-black?style=for-the-badge)
-![Assembly](https://img.shields.io/badge/Assembly_(AVR/ARM)-6E4C13?style=for-the-badge)
-
-**Tecnologias e Frameworks**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Ferramentas e Ambiente de Trabalho**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**Hardware & Sistemas Embarcados**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![AVR](https://img.shields.io/badge/AVR_(ATmega328P)-A22846?style=for-the-badge)
-![ARM Cortex--M](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-black?style=for-the-badge)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4C7EF3?style=for-the-badge)
+Gosto de projetos que vão do bit ao sistema: desde manipular registradores e interrupções até integrar serviços web para dashboards e telemetria.
 
 ---
 
-### 🚀 Projetos em destaque
+## O que eu faço
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| 🧠 **Perceptron em Hardware Digital** | Neurônio artificial completo em Verilog que aprende a função lógica OU diretamente no hardware. FSM de controle + datapath aritmético para cálculo de pesos — IA acelerada em chip dedicado. <br> | `Verilog` `FPGA` |
-| 🚗 **Simulação de IA — Algoritmo Genético** | 40 carros independentes evoluem com redes neurais e algoritmo genético construído do zero (sem frameworks). Elitismo, crossover e fitness customizado — o aprendizado é visível geração após geração. <br> | `Python` `Pygame` |
-| 🍽️ **RU Digital — Confirmação em Tempo Real** | App full-stack para confirmação de refeições no Restaurante Universitário da UFERSA via WebSocket, com validação de horário, prevenção de duplicatas e dashboard de monitoramento em tempo real. <br> | `Node.js` `WebSocket` `AWS Amplify` |
-| 📦 **Compressor de Arquivos — Huffman** | Ferramenta de atualização *lossless* em C puro, com árvore de Huffman, serialização binária e operações bit a bit. Taxa média de 30% de extensão em arquivos de texto. <br> | `C` |
-| ⚙️ **Sistemas Embarcados AVR Bare-metal** | Controle de hardware manipulando diretamente os registradores do ATmega328P — sem bibliotecas Arduino — incluindo lógica de interrupção externa (ISR), resultando em binário menor e resposta mais rápida. <br> | `C` `Arduino Uno` `ATmega328P` |
-
+- Firmware em C (AVR, ARM Cortex‑M)
+- Projetos digitais em Verilog / VHDL para FPGA
+- Sistemas embarcados bare‑metal e com RTOS (FreeRTOS)
+- Prototipagem de algoritmos de ML/IA para embarcados (TensorFlow/PyTorch)
+- Aplicações web leves e APIs para integração (Node.js, Python)
 
 ---
 
-### 📊 Estatísticas do GitHub
+## Tecnologias (resumido)
+
+Linguagens: C • C++ • Python • JavaScript • TypeScript • Java • Verilog • VHDL • Assembly (AVR/ARM)
+
+Frameworks / Bibliotecas: TensorFlow • PyTorch • NumPy • Pandas • scikit‑learn
+
+Ferramentas: Git • Docker • VS Code • Linux • PostgreSQL
+
+Hardware: AVR (ATmega), ARM Cortex‑M, FPGA, Arduino
+
+---
+
+## Projetos em destaque
+
+- Perceptron em Hardware Digital — Neurônio artificial implementado em Verilog que aprende a função lógica OR diretamente no hardware; FSM de controle + datapath aritmético.
+- Simulação de IA — Algoritmo Genético — Simulação com 40 agentes/veículos treinados por algoritmos genéticos e redes neurais feitas do zero.
+- RU Digital — Confirmação em Tempo Real — Aplicação full‑stack para confirmação de refeições via WebSocket, com validação de horários.
+- Compressor de Arquivos (Huffman) — Implementação lossless em C puro com manipulação de bits, serialização e deserialização de árvores.
+- Sistemas Embarcados AVR Bare‑metal — Projetos de controle direto dos registradores do ATmega328P, lógica de interrupções e otimização de consumo.
+
+> Veja meus repositórios no perfil para código, documentação e demos (links nos repositórios individuais).
+
+---
+
+## Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iucasoa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -97,15 +79,13 @@ Hoje minha paixão é tirar sistemas do papel e colocá-los no silício: escreve
 
 ---
 
-### 📫 Vamos conversar?
+## Vamos conversar?
 
-<div align="center">
+Se quiser trocar ideias, colaborar em projetos embarcados ou discutir oportunidades de pesquisa, me ache no LinkedIn ou mande um e‑mail:
 
-[![LinkedIn](https://img.shields.io/badge/-João_Lucas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-lucas-022786311)
-[![Gmail](https://img.shields.io/badge/-lucasoa.br%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasoa.br@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/joão-lucas-022786311
+- E‑mail: lucasoa.br@gmail.com
 
-</div>
+---
 
-<div align="center">
 <sub>Feito com ☕ e um pouco de solda em Pau dos Ferros, RN.</sub>
-</div>
