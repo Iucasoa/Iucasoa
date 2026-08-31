@@ -10,9 +10,9 @@
 
 ## 🚀 Sobre Mim
 
-Sou graduado em **Ciência e Tecnologia** e atualmente curso **Engenharia de Computação** na **UFERSA** (Campus Pau dos Ferros). Atuo como monitor acadêmico de Geometria Analítica e participo [...]
+Sou graduado em **Ciência e Tecnologia** e atualmente curso **Engenharia de Computação** na **UFERSA** (Campus Pau dos Ferros). Atuei como monitor acadêmico de Geometria Analítica e participei de projetos de iniciação científica na área de energia termelétrica.
 
-Minha trajetória conecta o mundo do **hardware** ao **software**: transito livremente entre sistemas embarcados de baixo nível, descrição de hardware, modelagem de dados e inteligência artifi[...]
+Minha trajetória conecta o mundo do **hardware** ao **software**: transito livremente entre sistemas embarcados de baixo nível, descrição de hardware, modelagem de dados e inteligência artificial.
 
 ⚡ Sempre construindo, simulando e aprendendo novas tecnologias.
 
@@ -92,9 +92,12 @@ Minha trajetória conecta o mundo do **hardware** ao **software**: transito livr
 
 ## 🎯 Experiência Acadêmica
 
-**Monitor Acadêmico de Geometria Analítica — UFERSA | Período Atual**
+**Monitor Acadêmico de Geometria Analítica — UFERSA | Período: Encerrado**
 * Auxílio a estudantes na resolução de problemas matemáticos e suporte em laboratórios
-* Pesquisa científica em andamento focada em energia termelétrica e harvesting
+
+**Aluno de Iniciação Científica (PICI — CNPq) — UFERSA**
+* Projeto de pesquisa focado em energia termelétrica; bolsista PICI (CNPq)
+* Atividades: experimentação, análise de dados e acompanhamento do projeto de pesquisa
 
 ---
 
