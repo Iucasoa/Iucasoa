@@ -1,121 +1,99 @@
-<h1 style="text-align:center">
-  💻 João Lucas | Computer Engineering Student
-</h1>
-
----
-
-  ![About_Me](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=38BDF8&size=22&center=false&vCenter=true&width=500&lines=Engenharia+de+Computação;Sistemas+Embarcados+%7C+Hardware;Python+%5B...%5D)
-
----
-
-## 🚀 Sobre Mim
-
-Sou graduado em **Ciência e Tecnologia** e atualmente curso **Engenharia de Computação** na **UFERSA** (Campus Pau dos Ferros). Atuei como monitor acadêmico de Geometria Analítica e participei de projetos de iniciação científica na área de energia termelétrica.
-
-Minha trajetória conecta o mundo do **hardware** ao **software**: transito livremente entre sistemas embarcados de baixo nível, descrição de hardware, modelagem de dados e inteligência artificial.
-
-⚡ Sempre construindo, simulando e aprendendo novas tecnologias.
-
----
-
-## 📫 Contato
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/joão-lucas-022786311">LinkedIn — João Lucas</a><br/>
-  <a href="mailto:lucasoa.br@gmail.com">lucasoa.br@gmail.com</a>
+
+# Olá, eu sou o João Lucas 👋
+
+**Estudante de Engenharia de Computação na UFERSA** · Hardware, sistemas embarcados e IA
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Sistemas+Embarcados+%7C+Verilog+%7C+AVR;Redes+Neurais+%26+Algoritmos+Gen%C3%A9ticos;Python+%7C+C+%7C+C%2B%2B+%7C+TypeScript" alt="Typing SVG" /></a>
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-022786311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:lucasoa.br@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
 </div>
 
 ---
 
-## 🧠 Core Skills
+## 🚀 Sobre mim
 
-* Sistemas Embarcados & Microcontroladores
-* Descrição de Hardware (RTL / Verilog)
-* Redes Neurais & Algoritmos Genéticos
-* Processamento de Sinais & Dados
-* Automação Industrial & Simulações
+Sou graduado em **Ciência e Tecnologia** e curso **Engenharia de Computação** na **UFERSA** (campus Pau dos Ferros). Gosto de trabalhar na fronteira entre **hardware e software**: de registradores de microcontroladores e descrição RTL em Verilog até redes neurais e aplicações web.
 
----
-
-## ⚙️ Áreas de Foco
-
-* Programação de baixo nível para chips AVR (`ATmega328P`)
-* Simulação de condução autônoma guiada por IA (Pygame + ML)
-* Automação de sistemas e controle com lógica de contato (CADe SIMU)
-* Desenvolvimento web voltado para utilidades e eficiência operacional
+- 🔬 Bolsista de **Iniciação Científica (PICI/CNPq)** em pesquisa sobre energia termelétrica
+- 🌱 Estudando sistemas embarcados, aprendizado de máquina e processamento de sinais
+- 💼 **Em busca de oportunidades de estágio** em engenharia e desenvolvimento
 
 ---
 
-## 💻 Linguagens de Programação
+## 🧪 Projetos em destaque
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img align="center" alt="SQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div><br/>
+| Projeto | Descrição | Stack |
+| --- | --- | --- |
+| 🚗 [**Carros IA**](https://github.com/Iucasoa/carros_ia) | Simulador de condução autônoma: carros aprendem a dirigir com redes neurais treinadas por algoritmo genético, usando sensores por *raycasting*. | Python · Pygame |
+| ⚡ [**Perceptron em Verilog**](https://github.com/Iucasoa/Sistemas-Digitais-Embarcados/tree/main/Projeto%20RTL%20-%20Perceptron) | Rede neural Perceptron implementada em hardware, com projeto RTL dividido em *datapath* e controle. | Verilog |
+| 🍽️ [**RU Digital**](https://github.com/Iucasoa/RU_Digital) | Aplicação web para o Restaurante Universitário: cardápio, reservas de refeições e histórico, com deploy na AWS Amplify. | React · TypeScript · Vite |
+| 📡 [**Sistema em Tempo Real**](https://github.com/Iucasoa/Sistema-em-Tempo-Real) | Estimativa de demanda de refeições via WebSocket, medindo latência, *jitter*, taxa e banda de transmissão. | WebSocket · JavaScript |
+| 🤖 [**Sistemas Inteligentes**](https://github.com/Iucasoa/Sistemas-Inteligentes) | Problemas de aprendizado de máquina: regressão linear e logística, KNN e árvore de decisão, com análise e visualizações. | Python · Jupyter |
+| 🎛️ [**Sistemas Embarcados**](https://github.com/Iucasoa/Sistemas-Digitais-Embarcados) | Códigos para microcontroladores AVR (ATmega328P) e projetos de sistemas digitais. | C · Arduino · Verilog |
+| 📈 [**Processamento Digital de Sinais**](https://github.com/Iucasoa/Processamento-Digital-de-Sinais) | Projeto e visualização de filtros passa-baixa, passa-alta e passa-faixa. | Python |
 
----
+Também desenvolvi uma **simulação de controle de elevador** no CADe SIMU, com reversão de motor trifásico e travas de segurança.
 
-## 🛠️ Ferramentas & Hardware
-
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Verilog" src="https://img.shields.io/badge/Verilog-E34F26?style=for-the-badge&logo=verilog&logoColor=white"/>
-  <img align="center" alt="AVR" src="https://img.shields.io/badge/AVR-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img align="center" alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008081?style=for-the-badge&logo=latex&logoColor=white"/>
-</div><br/>
+📚 Repositórios de disciplinas: [Algoritmos e Estruturas de Dados I](https://github.com/Iucasoa/Algortimos-e-Estruturas-de-Dados-1) · [Algoritmos e Estruturas de Dados II](https://github.com/Iucasoa/Algoritmos-e-Estruturas-de-Dados-2)
 
 ---
 
-## 🧪 Projetos & Pesquisa
+## 🛠️ Tecnologias
 
-* 🚗 **Simulador de Condução Autônoma (Carros IA):** Pygame, Redes Neurais e Algoritmos Genéticos via raycasting.
-* ⚡ **Redes Neurais Perceptron em Verilog:** Circuitos digitais e descrições RTL em nível de hardware.
-* 🍽️ **Sistema de Refeições RU UFERSA:** Aplicação web com WebSockets para otimização de fluxo universitário.
-* 🎛️ **Sistemas Embarcados AVR:** Manipulação direta de registradores (`PORTB`, `DDRD`) em C para ATmega328P.
-* 🏢 **Controle de Elevador (CADe SIMU):** Simulação eletromecânica com reversão de motor trifásico e travas de segurança.
+**Linguagens**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Verilog-E34F26?style=for-the-badge" alt="Verilog"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+**Dados & IA**
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+**Hardware & Ferramentas**
+
+<p>
+  <img src="https://img.shields.io/badge/AVR_/_Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="AVR / Arduino"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+</p>
 
 ---
 
-## 📈 Bibliotecas & Dados
+## 🎓 Experiência acadêmica
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img align="center" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-</div><br/>
+**Iniciação Científica (PICI/CNPq) · UFERSA**
+Pesquisa na área de energia termelétrica: experimentação, análise de dados e acompanhamento do projeto.
 
----
-
-## 🎯 Experiência Acadêmica
-
-**Monitor Acadêmico de Geometria Analítica — UFERSA | Período: Encerrado**
-* Auxílio a estudantes na resolução de problemas matemáticos e suporte em laboratórios
-
-**Aluno de Iniciação Científica (PICI — CNPq) — UFERSA**
-* Projeto de pesquisa focado em energia termelétrica; bolsista PICI (CNPq)
-* Atividades: experimentação, análise de dados e acompanhamento do projeto de pesquisa
-
----
-
-## 🧠 Soft Skills
-
-* Resolução de Problemas
-* Pensamento Crítico & Analítico
-* Trabalho em Equipe
-* Metodologia Científica
-* Aprendizado Contínuo
+**Monitor de Geometria Analítica · UFERSA** *(encerrado)*
+Apoio a estudantes na resolução de problemas e nas atividades de laboratório.
 
 ---
 
 ## 🌍 Idiomas
 
-* Português — Nativo
-* Inglês — Intermediário/Avançado (leitura e documentação técnica)
+🇧🇷 Português: nativo · 🇺🇸 Inglês: intermediário/avançado (leitura e documentação técnica)
 
 ---
 
-⚡ *Atualmente em busca de oportunidades de estágio e novos desafios em engenharia e desenvolvimento.*
+<div align="center">
+
+⚡ *Sempre construindo, simulando e aprendendo.* Vamos conversar? [Me chame no LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-lucas-022786311) ou [mande um e-mail](mailto:lucasoa.br@gmail.com).
+
+</div>
